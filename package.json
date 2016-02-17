@@ -1,0 +1,26 @@
+{
+  "name": "lmth",
+  "version": "0.5.0",
+  "description": "A \"type-safe\" HTML DSL for JavaScript environments.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdotcode/lmth.git"
+  },
+  "keywords": [
+    "html",
+    "dsl",
+    "javascript",
+    "type",
+    "safety"
+  ],
+  "author": "Chris Blake <chris@code.sc>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/chrisdotcode/lmth/issues"
+  },
+  "homepage": "https://github.com/chrisdotcode/lmth#readme"
+}
