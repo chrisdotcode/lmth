@@ -27,9 +27,9 @@ probably work however you try to use it:
 	var l = require('lmth');
 
 	// Quick gist:
-	var html = lmth.main({id: 'main'}, [
-		lmth.h1(null, 'Hello, world!'),
-		lmth.img({src: '/foo.png'})
+	var html = l.main({id: 'main'}, [
+		l.h1(null, 'Hello, world!'),
+		l.img({src: '/foo.png'})
 	]);
 	// To a string:
 	html.render();
