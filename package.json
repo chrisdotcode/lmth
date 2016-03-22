@@ -1,6 +1,6 @@
 {
   "name": "lmth",
-  "version": "6.1.0",
+  "version": "6.2.0",
   "description": "A \"type-safe\" HTML DSL for JavaScript environments.",
   "main": "lib/index.js",
   "scripts": {
